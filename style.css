@@ -28,6 +28,22 @@ header{
     width: 40%;
 }
 
-.escola{
-    background-color: linear-gradient(green,);
+.turmas{
+    background-image: linear-gradient(rgba(41, 41, 41, 0.356),rgba(9, 87, 2, 0.582));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.turmas-titulo{
+    color: white;
+}
+
+.turmas-div{
+    width: 35%;
+}
+
+.turmas-texto1{
+    padding: 24px 0;
 }
